@@ -23,18 +23,18 @@ AFM gives information on deepness of structure, having info on the vertical dime
 The best picture catched untill now refer to lattice structures, which allow for ensemble averaged error correction. classical lattice are memebrane protein, like ion channel --> nice pics!.
 Even DNA with interacting proteins are visible. Still it requires a statistical analysis.
 
-###Challanges in biology
+### Challanges in biology
 * Biological structures in native state
 Mechanobiology
 Hig resolution < nm
 dynamics
 complementary to EM
 
-####Pro:
+#### Pro:
 * Don't require labeling
 * Information on interaction dynamics
 
-####Cons:
+####  Cons:
 * You need a surface to lay down your molecule and immobilize it.
 * Gentle pinning is required in order to not modify the sample
 
@@ -61,6 +61,8 @@ Small cantiliver, focused laser, good position detector (CCD)
 
 ### Contact mode:
 
+As you can see from the the graph the derivative of the potential offer an higher resolution in the repulsive regime than the attractive.
+
 There are two ideal approach:
 
 - keep distance fixed and measure the repulsive force.
@@ -72,13 +74,13 @@ The force is measured with cantiliver deformation.
 it's no obviously that the force changes is due to a topography change, even a different chemistry can happen which will variate the nature of Van der Waals force.
 The frictional image will give you information on this, since the friction variation due to different chemistry and changing topography can easily be detected.
 
+The basic answer is:
+you need to combine different imaging tecniques to be sure of what is happening in your system.
+
 
 ##### On tip shape:
 
 The triangular shape is needed to avoid the break of the tip itself when is moving on 'complex' surfaces, some carbon tips can be used, which are kind of thiner but more expensive and fragile.
-
-
-As you can see from the the graph the derivative of the potential offer an higher resolution in the repulsive regime than the attractive.
 
 ### Dynamic mode:
 
