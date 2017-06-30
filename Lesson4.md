@@ -31,13 +31,23 @@ dynamics
 complementary to EM
 
 #### Pro:
+* High resolution possible
+* Multi environmentReal living cells
+* Not destructive
 * Don't require labeling
 * Information on interaction dynamics
 
 ####  Cons:
+* Only surface is showed
+* more complex than standard optics
+* slow on corrugated sample
+* No multiscale resolution
 * You need a surface to lay down your molecule and immobilize it.
 * Gentle pinning is required in order to not modify the sample
 
+####Other:
+* Time: High speed for dynamics to slow with high resolution
+*  Other tecniques can be implemented simoultaneously
 ### Which forces:
 
 1. long range **Coloumb** interaction.
@@ -68,6 +78,7 @@ There are two ideal approach:
 - keep distance fixed and measure the repulsive force.
 
 - keep constant force and moving the tip up and down, *nice video in slide*, what you are measuring is the voltage applied to the piezoelectric needed to keep the force constant.
+The piezoelectric resolution is about $nm$
 The force is measured with cantiliver deformation.
 
 ##### why force is changing?

@@ -35,8 +35,9 @@ $$
 the entropy of a straighten line is very low, while the curled chain is much higher
 
 The polymer acts like a spring and its spring constant goes
+
 $$
-F = 3k_b  T/ n b^2 = k R
+F = \frac{3k_b  T} {n b^2 }R= k R
 $$
 
 #### Which is the range of forces?
@@ -49,8 +50,10 @@ A set of experiments explaining the effect of forces over cells.
 
 #### Elasticity
 Stem cells differentiate themselve depending of strenght of substrate, the soft substrate leads to neurons.
-Softness is defined trhough young modulus:
-Elasticity = P / elongation_rate = \frac {F L }{ \Delta L Area}
+Softness is defined trhough Young modulus:
+$$
+K_{elasticity} = \frac{ P }{\epsilon} = \frac {F/Area }{ \Delta L/L}
+$$
 the same parameters are used to the cell to, even if it s a visco elastic system, it wont' go back to same shape!
 
 #### Neurons on graphene
